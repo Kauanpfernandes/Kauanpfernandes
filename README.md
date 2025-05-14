@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋 , Eu sou o Kauan</h1>
+<h1 align="center">Oi 👋 , Eu sou o Kauan Fernandes</h1>
 <h3 align="center">Apaixonado por programação e segurança da informação.</h3>
 
 - 🌱 Atualmente estou aprendendo **Javascrpit**
