@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **SQL, Power BI, c# e Excel.**
 
-- 📫 Você vai me encontrar pelo **kauangabriel307@gmail.com**
+- 📫 Você vai me encontrar pelo ** kauan.fernandes.dev@gmail.com **
 
 <h3 align="left">Conecte-se comigo: </h3>
 <p align="left">
