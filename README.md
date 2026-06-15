@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Javascrpit**
 
-- 💬 Me pergunte sobre **SQL, Power BI, c# e Excel.**
+- 💬 Me pergunte sobre **SQL, React, c# e Excel.**
 
 - 📫 Você vai me encontrar pelo ** kauan.fernandes.dev@gmail.com **
 
