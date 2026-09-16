@@ -10,15 +10,18 @@
   <a href="mailto:kauan.fernandes.dev@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
----
+## Oi, prazer
 
-## Sobre mim
+Sou o Kauan, de Belo Horizonte. Estudo Análise e Desenvolvimento de Sistemas na
+PUC Minas e toco a **dev.fernandes**, onde faço landing pages, mini-sites e
+sistemas web para quem vende serviço. Pego o projeto do briefing até o site no ar.
 
-- 🎓 Curso **Análise e Desenvolvimento de Sistemas** na PUC Minas.
-- 💼 Toco a **dev.fernandes**: landing pages, mini-sites e sistemas web para quem vende serviço — do briefing ao site no ar.
-- 🔧 No código: **backend com APIs REST**, integração de sistemas e aplicações web do banco de dados à tela.
-- 🌱 Estudando agora: **React Native (Expo)**, **Supabase** e **TypeScript**.
-- 📫 Contato: **kauan.fernandes.dev@gmail.com**
+No código eu gosto mesmo é do que fica atrás da tela: APIs REST, banco de dados,
+integração entre sistemas. Agora estou me aprofundando em React Native com Expo,
+Supabase e TypeScript.
+
+Me chame pelo e-mail **kauan.fernandes.dev@gmail.com** ou pelo Instagram
+[@dev.fernandes](https://instagram.com/dev.fernandes).
 
 ## Tecnologias
 
@@ -57,18 +60,26 @@
 
 ### [Meu Dinheiro](https://github.com/Kauanpfernandes/meu-dinheiro)
 
-Controle de gastos pessoal: entradas e saídas por mês, categorias, gastos fixos ×
-variáveis, fatura e parcelas do cartão, meta de economia e caixa acumulado.
-Site estático falando direto com o Supabase — sem servidor para manter — e
-instalável no celular como PWA.
+Controle de gastos pessoal. Mostra entradas e saídas do mês, separa gasto fixo de
+gasto variável, acompanha fatura e parcelas do cartão, persegue uma meta de
+economia e soma o caixa que sobra de um mês para o outro. É um site estático
+falando direto com o Postgres do Supabase, sem servidor nenhum para manter, e dá
+para instalar no celular.
 
 `JavaScript` · `Supabase (Postgres + RLS)` · `Netlify` · `PWA`
 
-### Em desenvolvimento
+### No forno
 
-- **StockSave** — app web para mercados anunciarem produtos perto do vencimento com desconto: foto do produto → OCR/IA lê nome, preço e validade → o sistema sugere o preço promocional.
-- **IF Training** — app mobile de treinos e dieta para personal trainer e alunos, com notificações diárias. `React Native` · `Expo` · `TypeScript` · `Supabase`
-- **dev.fernandes** — landing pages e mini-sites entregues a clientes reais: barbearia, personal trainer, psicóloga.
+**StockSave.** App web para mercados anunciarem produtos perto do vencimento com
+desconto. O lojista fotografa o produto, a IA lê nome, preço e validade no rótulo,
+e o sistema sugere o preço promocional.
+
+**IF Training.** App mobile de treinos e dieta para um personal trainer e os
+alunos dele, com histórico, evolução e notificações diárias. React Native, Expo,
+TypeScript e Supabase.
+
+**dev.fernandes.** Landing pages e mini-sites entregues para clientes reais:
+barbearia, personal trainer, psicóloga.
 
 ## GitHub
 
@@ -77,9 +88,7 @@ instalável no celular como PWA.
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanpfernandes&layout=compact&hide_border=true&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas">
 </p>
 
----
-
 <p align="center">
   <b>Precisa de um site ou sistema para o seu negócio?</b><br>
-  Chama no <a href="https://instagram.com/dev.fernandes">Instagram</a> ou manda um e-mail: <a href="mailto:kauan.fernandes.dev@gmail.com">kauan.fernandes.dev@gmail.com</a>
+  Chama no <a href="https://instagram.com/dev.fernandes">Instagram</a> ou manda um e-mail para <a href="mailto:kauan.fernandes.dev@gmail.com">kauan.fernandes.dev@gmail.com</a>
 </p>
