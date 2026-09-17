@@ -59,11 +59,13 @@ Me chame pelo e-mail **kauan.fernandes.dev@gmail.com** ou pelo Instagram
 
 ### [Meu Dinheiro](https://github.com/Kauanpfernandes/meu-dinheiro)
 
+<a href="https://kauanpfernandes.github.io/meu-dinheiro/?demo"><img src="https://img.shields.io/badge/▶%20abrir%20a%20demonstração-145f55?style=for-the-badge" alt="Abrir a demonstração"></a>
+
 Controle de gastos pessoal. Mostra entradas e saídas do mês, separa gasto fixo de
 gasto variável, acompanha fatura e parcelas do cartão, persegue uma meta de
 economia e soma o caixa que sobra de um mês para o outro. É um site estático
 falando direto com o Postgres do Supabase, sem servidor nenhum para manter, e dá
-para instalar no celular.
+para instalar no celular. O botão acima abre o app funcionando, sem cadastro.
 
 `JavaScript` · `Supabase (Postgres + RLS)` · `Netlify` · `PWA`
 
