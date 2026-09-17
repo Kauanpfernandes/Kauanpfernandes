@@ -82,13 +82,6 @@ TypeScript e Supabase.
 **dev.fernandes.** Landing pages e mini-sites entregues para clientes reais:
 barbearia, personal trainer, psicóloga.
 
-## GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Kauanpfernandes&show_icons=true&hide_border=true&theme=tokyonight&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kauanpfernandes&layout=compact&hide_border=true&theme=tokyonight&locale=pt-br" alt="Linguagens mais usadas">
-</p>
-
 <p align="center">
   <b>Precisa de um site ou sistema para o seu negócio?</b><br>
   Chama no <a href="https://instagram.com/dev.fernandes">Instagram</a> ou manda um e-mail para <a href="mailto:kauan.fernandes.dev@gmail.com">kauan.fernandes.dev@gmail.com</a>
