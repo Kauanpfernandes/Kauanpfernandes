@@ -13,8 +13,7 @@
 ## Oi, prazer
 
 Sou o Kauan, de Belo Horizonte. Estudo Análise e Desenvolvimento de Sistemas na
-PUC Minas e toco a **dev.fernandes**, onde faço landing pages, mini-sites e
-sistemas web para quem vende serviço. Pego o projeto do briefing até o site no ar.
+PUC Minas.
 
 No código eu gosto mesmo é do que fica atrás da tela: APIs REST, banco de dados,
 integração entre sistemas. Agora estou me aprofundando em React Native com Expo,
