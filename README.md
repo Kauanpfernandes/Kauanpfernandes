@@ -69,6 +69,18 @@ para instalar no celular. O botão acima abre o app funcionando, sem cadastro.
 
 `JavaScript` · `Supabase (Postgres + RLS)` · `Netlify` · `PWA`
 
+### [Acha Aqui](https://github.com/Kauanpfernandes/acha-aqui)
+
+API REST que responde onde comprar um produto perto de você. Junta a ficha do
+produto no Open Food Facts, os preços já conhecidos no Open Prices e as lojas do
+raio no OpenStreetMap, e deixa o usuário registrar quanto pagou e onde. A ordem
+por distância sai do banco, com PostGIS. Nenhuma fonte externa derruba a busca:
+cada integração tem timeout, retry e cache, e uma API fora do ar vira aviso na
+resposta em vez de erro. 26 testes de integração rodando no CI contra Postgres de
+verdade.
+
+`Node` · `TypeScript` · `Express` · `PostgreSQL + PostGIS` · `Docker`
+
 ### No forno
 
 **StockSave.** App web para mercados anunciarem produtos perto do vencimento com
