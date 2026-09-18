@@ -71,6 +71,8 @@ para instalar no celular. O botão acima abre o app funcionando, sem cadastro.
 
 ### [Acha Aqui](https://github.com/Kauanpfernandes/acha-aqui)
 
+<a href="https://kauanpfernandes.github.io/acha-aqui/"><img src="https://img.shields.io/badge/▶%20abrir%20a%20demonstração-145f55?style=for-the-badge" alt="Abrir a demonstração"></a>
+
 API REST que responde onde comprar um produto perto de você. Junta a ficha do
 produto no Open Food Facts, os preços já conhecidos no Open Prices e as lojas do
 raio no OpenStreetMap, e deixa o usuário registrar quanto pagou e onde. A ordem
