@@ -83,7 +83,7 @@ verdade.
 
 `Node` · `TypeScript` · `Express` · `PostgreSQL + PostGIS` · `Docker`
 
-### No forno
+### Em andamento
 
 **StockSave.** App web para mercados anunciarem produtos perto do vencimento com
 desconto. O lojista fotografa o produto, a IA lê nome, preço e validade no rótulo,
@@ -93,8 +93,6 @@ e o sistema sugere o preço promocional.
 alunos dele, com histórico, evolução e notificações diárias. React Native, Expo,
 TypeScript e Supabase.
 
-**dev.fernandes.** Landing pages e mini-sites entregues para clientes reais:
-barbearia, personal trainer, psicóloga.
 
 <p align="center">
   <b>Precisa de um site ou sistema para o seu negócio?</b><br>
