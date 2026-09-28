@@ -10,7 +10,7 @@
   <a href="mailto:kauan.fernandes.dev@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
-## Oi, prazer
+## 
 
 Sou o Kauan, de Belo Horizonte. Estudo Análise e Desenvolvimento de Sistemas na
 PUC Minas.
