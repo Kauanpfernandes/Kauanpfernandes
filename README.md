@@ -12,12 +12,12 @@
 
 ## 
 
-Sou o Kauan, de Belo Horizonte. Estudo Análise e Desenvolvimento de Sistemas na
+Sou o Kauan, trabalho em Belo Horizonte. Estudo Análise e Desenvolvimento de Sistemas na
 PUC Minas.
 
 No código eu gosto mesmo é do que fica atrás da tela: APIs REST, banco de dados,
 integração entre sistemas. Agora estou me aprofundando em React Native com Expo,
-Supabase e TypeScript.
+Supabase, TypeScript e CyberSecurity.
 
 Me chame pelo e-mail **kauan.fernandes.dev@gmail.com** ou pelo Instagram
 [@dev.fernandes](https://instagram.com/dev.fernandes).
