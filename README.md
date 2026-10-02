@@ -10,7 +10,7 @@
   <a href="mailto:kauan.fernandes.dev@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
 
-## 
+## Sobre mim
 
 Sou o Kauan, trabalho em Belo Horizonte. Estudo Análise e Desenvolvimento de Sistemas na
 PUC Minas.
@@ -57,6 +57,20 @@ Me chame pelo e-mail **kauan.fernandes.dev@gmail.com** ou pelo Instagram
 
 ## Projetos
 
+### [Acha Aqui](https://github.com/Kauanpfernandes/acha-aqui)
+
+<a href="https://kauanpfernandes.github.io/acha-aqui/"><img src="https://img.shields.io/badge/▶%20abrir%20a%20demonstração-145f55?style=for-the-badge" alt="Abrir a demonstração"></a>
+
+API REST que responde onde comprar um produto perto de você. Junta a ficha do
+produto no Open Food Facts, os preços já conhecidos no Open Prices e as lojas do
+raio no OpenStreetMap, e deixa o usuário registrar quanto pagou e onde. A ordem
+por distância sai do banco, com PostGIS. Nenhuma fonte externa derruba a busca:
+cada integração tem timeout, retry e cache, e uma API fora do ar vira aviso na
+resposta em vez de erro. 41 testes de integração rodando no CI contra Postgres de
+verdade.
+
+`Node` · `TypeScript` · `Express` · `PostgreSQL + PostGIS` · `Docker`
+
 ### [Meu Dinheiro](https://github.com/Kauanpfernandes/meu-dinheiro)
 
 <a href="https://kauanpfernandes.github.io/meu-dinheiro/?demo"><img src="https://img.shields.io/badge/▶%20abrir%20a%20demonstração-145f55?style=for-the-badge" alt="Abrir a demonstração"></a>
@@ -68,20 +82,6 @@ falando direto com o Postgres do Supabase, sem servidor nenhum para manter, e d�
 para instalar no celular. O botão acima abre o app funcionando, sem cadastro.
 
 `JavaScript` · `Supabase (Postgres + RLS)` · `Netlify` · `PWA`
-
-### [Acha Aqui](https://github.com/Kauanpfernandes/acha-aqui)
-
-<a href="https://kauanpfernandes.github.io/acha-aqui/"><img src="https://img.shields.io/badge/▶%20abrir%20a%20demonstração-145f55?style=for-the-badge" alt="Abrir a demonstração"></a>
-
-API REST que responde onde comprar um produto perto de você. Junta a ficha do
-produto no Open Food Facts, os preços já conhecidos no Open Prices e as lojas do
-raio no OpenStreetMap, e deixa o usuário registrar quanto pagou e onde. A ordem
-por distância sai do banco, com PostGIS. Nenhuma fonte externa derruba a busca:
-cada integração tem timeout, retry e cache, e uma API fora do ar vira aviso na
-resposta em vez de erro. 26 testes de integração rodando no CI contra Postgres de
-verdade.
-
-`Node` · `TypeScript` · `Express` · `PostgreSQL + PostGIS` · `Docker`
 
 ### Em andamento
 
