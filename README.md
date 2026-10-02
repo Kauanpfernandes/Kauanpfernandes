@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/kauan-gabriel-125ba2305"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://instagram.com/dev.fernandes"><img src="https://img.shields.io/badge/dev.fernandes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="mailto:kauan.fernandes.dev@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
 </p>
@@ -19,7 +20,8 @@ No código eu gosto mesmo é do que fica atrás da tela: APIs REST, banco de dad
 integração entre sistemas. Agora estou me aprofundando em React Native com Expo,
 Supabase, TypeScript e CyberSecurity.
 
-Me chame pelo e-mail **kauan.fernandes.dev@gmail.com** ou pelo Instagram
+Me chame pelo e-mail **kauan.fernandes.dev@gmail.com**, pelo
+[LinkedIn](https://www.linkedin.com/in/kauan-gabriel-125ba2305) ou pelo Instagram
 [@dev.fernandes](https://instagram.com/dev.fernandes).
 
 ## Tecnologias
@@ -77,7 +79,7 @@ economia e soma o caixa que sobra de um mês para o outro. É um site estático
 falando direto com o Postgres do Supabase, sem servidor nenhum para manter, e dá
 para instalar no celular. O botão acima abre o app funcionando, sem cadastro.
 
-`JavaScript` · `Supabase (Postgres + RLS)` · `Netlify` · `PWA`
+`JavaScript` · `Supabase (Postgres + RLS)` · `PWA` · `node:test` · `GitHub Actions`
 
 ### Em andamento
 
