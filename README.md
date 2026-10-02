@@ -1,98 +1,74 @@
-<h1 align="center">Kauan Fernandes</h1>
-
+<p align="center"><sub>DEV.FERNANDES · BELO HORIZONTE, BRASIL</sub></p>
+<h1 align="center">Olá, eu sou o Kauan 👋</h1>
+<p align="center"><b>Desenvolvedor Full Stack com foco em backend, APIs e bancos de dados.</b><br>Crio sites e sistemas web para pequenos negócios e profissionais autônomos.</p>
 <p align="center">
-  <b>Desenvolvedor Full Stack</b> · Belo Horizonte, MG 🇧🇷<br>
-  Crio sites e sistemas web sob medida para pequenos negócios e profissionais autônomos.
+<a href="https://www.linkedin.com/in/kauan-gabriel-125ba2305"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn"></a>
+<a href="mailto:kauan.fernandes.dev@gmail.com"><img src="https://img.shields.io/badge/Vamos_conversar-145f55?style=for-the-badge" alt="Enviar e-mail"></a>
+<a href="https://instagram.com/dev.fernandes"><img src="https://img.shields.io/badge/dev.fernandes-242938?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram dev.fernandes"></a>
 </p>
+<p align="center"><a href="#projetos-em-destaque">Projetos</a> · <a href="#tecnologias">Tecnologias</a> · <a href="#sobre-mim">Sobre mim</a></p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/kauan-gabriel-125ba2305"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/dev.fernandes"><img src="https://img.shields.io/badge/dev.fernandes-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="mailto:kauan.fernandes.dev@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
-</p>
+---
 
-## Sobre mim
+## Projetos em destaque
 
-Sou o Kauan, trabalho em Belo Horizonte. Estudo Análise e Desenvolvimento de Sistemas na
-PUC Minas.
+### 📍 Acha Aqui
+**Uma API para descobrir onde comprar um produto perto de você.**
 
-No código eu gosto mesmo é do que fica atrás da tela: APIs REST, banco de dados,
-integração entre sistemas. Agora estou me aprofundando em React Native com Expo,
-Supabase, TypeScript e CyberSecurity.
+Integra informações de produtos, preços e lojas com Open Food Facts, Open Prices e OpenStreetMap.
 
-Me chame pelo e-mail **kauan.fernandes.dev@gmail.com**, pelo
-[LinkedIn](https://www.linkedin.com/in/kauan-gabriel-125ba2305) ou pelo Instagram
-[@dev.fernandes](https://instagram.com/dev.fernandes).
+- **Busca por proximidade:** consultas geográficas com PostgreSQL e PostGIS.
+- **Integrações resilientes:** timeout, retry e cache para lidar com falhas nas fontes externas.
+- **Qualidade:** testes de integração no CI contra um banco PostgreSQL real.
+
+`Node.js` · `TypeScript` · `Express` · `PostgreSQL / PostGIS` · `Docker`
+
+**[Experimentar a demonstração ↗](https://kauanpfernandes.github.io/acha-aqui/)** · [Explorar o código](https://github.com/Kauanpfernandes/acha-aqui)
+
+---
+
+### 💰 Meu Dinheiro
+**Suas finanças do mês, organizadas em um só lugar.**
+
+Aplicação de controle financeiro pessoal, com demonstração que pode ser acessada sem cadastro.
+
+- **Visão do orçamento:** receitas, despesas, categorias e gastos fixos ou variáveis.
+- **Planejamento:** fatura e parcelas do cartão, meta de economia e saldo acumulado.
+- **Experiência mobile:** instalável como PWA, com dados no Supabase e regras de acesso via RLS.
+
+`JavaScript` · `Supabase / PostgreSQL` · `PWA` · `node:test` · `GitHub Actions`
+
+**[Experimentar sem cadastro ↗](https://kauanpfernandes.github.io/meu-dinheiro/?demo)** · [Explorar o código](https://github.com/Kauanpfernandes/meu-dinheiro)
 
 ## Tecnologias
 
-**O que uso nos meus projetos**
+| Área | Tecnologias que uso nos projetos |
+| :--- | :--- |
+| **Backend** | Node.js · TypeScript · JavaScript · Express |
+| **Dados** | PostgreSQL · PostGIS · Supabase |
+| **Web e mobile** | HTML · CSS · React Native · Expo |
+| **Entrega e qualidade** | Docker · Git · GitHub Actions · Testes de integração |
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<details>
+<summary>Outras tecnologias com as quais já trabalhei</summary>
 
-**Também já trabalhei com** (faculdade e trabalhos para clientes)
+Em projetos da faculdade e trabalhos para clientes: **React, C#, Python, SQL Server, Firebase, Netlify e Figma**.
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+</details>
 
-## Projetos
+## Sobre mim
 
-### [Acha Aqui](https://github.com/Kauanpfernandes/acha-aqui)
+Sou de **Belo Horizonte** e estudo **Análise e Desenvolvimento de Sistemas na PUC Minas**. Gosto especialmente do que acontece por trás da interface: modelagem de dados, APIs REST e integração entre sistemas.
 
-<a href="https://kauanpfernandes.github.io/acha-aqui/"><img src="https://img.shields.io/badge/▶%20abrir%20a%20demonstração-145f55?style=for-the-badge" alt="Abrir a demonstração"></a>
+Na **dev.fernandes**, desenvolvo sites e sistemas sob medida para pequenos negócios e profissionais autônomos. Atualmente, aprofundo meus estudos em **TypeScript, React Native com Expo, Supabase e segurança cibernética**.
 
-API REST que responde onde comprar um produto perto de você. Junta a ficha do
-produto no Open Food Facts, os preços já conhecidos no Open Prices e as lojas do
-raio no OpenStreetMap, e deixa o usuário registrar quanto pagou e onde. A ordem
-por distância sai do banco, com PostGIS. Nenhuma fonte externa derruba a busca:
-cada integração tem timeout, retry e cache, e uma API fora do ar vira aviso na
-resposta em vez de erro. 41 testes de integração rodando no CI contra Postgres de
-verdade.
+### Em desenvolvimento
 
-`Node` · `TypeScript` · `Express` · `PostgreSQL + PostGIS` · `Docker`
+| Projeto | Proposta |
+| :--- | :--- |
+| **StockSave** | Ajudar mercados a anunciar produtos próximos do vencimento, com leitura de rótulos por IA e sugestão de preço promocional. |
+| **IF Training** | Aplicativo de treinos e dieta para personal trainer e alunos, com histórico, evolução e notificações. |
 
-### [Meu Dinheiro](https://github.com/Kauanpfernandes/meu-dinheiro)
+---
 
-<a href="https://kauanpfernandes.github.io/meu-dinheiro/?demo"><img src="https://img.shields.io/badge/▶%20abrir%20a%20demonstração-145f55?style=for-the-badge" alt="Abrir a demonstração"></a>
-
-Controle de gastos pessoal, para você ter mais controle do seu dinheiro. Mostra entradas e saídas do mês, separa gasto fixo de
-gasto variável, acompanha fatura e parcelas do cartão, persegue uma meta de
-economia e soma o caixa que sobra de um mês para o outro. É um site estático
-falando direto com o Postgres do Supabase, sem servidor nenhum para manter, e dá
-para instalar no celular. O botão acima abre o app funcionando, sem cadastro.
-
-`JavaScript` · `Supabase (Postgres + RLS)` · `PWA` · `node:test` · `GitHub Actions`
-
-### Em andamento
-
-**StockSave.** App web para mercados anunciarem produtos perto do vencimento com
-desconto. O lojista fotografa o produto, a IA lê nome, preço e validade no rótulo,
-e o sistema sugere o preço promocional.
-
-**IF Training.** App mobile de treinos e dieta para um personal trainer e os
-alunos dele, com histórico, evolução e notificações diárias. React Native, Expo,
-TypeScript e Supabase.
-
-
-<p align="center">
-  <b>Precisa de um site ou sistema para o seu negócio?</b><br>
-  Chama no <a href="https://instagram.com/dev.fernandes">Instagram</a> ou manda um e-mail para <a href="mailto:kauan.fernandes.dev@gmail.com">kauan.fernandes.dev@gmail.com</a>
-</p>
+<p align="center"><b>Vamos transformar sua ideia em um site ou sistema?</b><br>Conte o que você precisa pelo <a href="mailto:kauan.fernandes.dev@gmail.com">e-mail</a> ou pelo <a href="https://instagram.com/dev.fernandes">Instagram</a>.<br><sub>Para conexões profissionais: <a href="https://www.linkedin.com/in/kauan-gabriel-125ba2305">LinkedIn</a></sub></p>
